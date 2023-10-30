@@ -5,7 +5,7 @@ let movie1 = "kaithi";
 let movie2 = "vikram";
 let movie3 = "leo";
 let movie4 = "RRR";
-//input movie name
+
 const lcuMovies =prompt("movie name:")
 
 // chek the movie in lcu
