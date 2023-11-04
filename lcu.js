@@ -14,3 +14,4 @@ if (lcu.includes(lcuMovies)) {
 } else {
   console.log(lcuMovies,"is not in the LCU.");
 }
+
