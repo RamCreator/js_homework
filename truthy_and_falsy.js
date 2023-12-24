@@ -9,8 +9,6 @@ if (x)
     console.log("truthy");
 else
     console.log("falsy");
-
-
 var y = 0;
 if (y)
     console.log("truthy");
